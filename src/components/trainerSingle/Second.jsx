@@ -12,7 +12,7 @@ const Second = () => {
           <span>Phone :</span> +20 1151747091
         </p>
         <p className={styles.info}>
-          <span>Email :</span> mustafakhaledinfo@gmail.com
+          <span>Email :</span> siddhantdeore15@gmail.com
         </p>
         <p className={styles.info}>
           <span>Location :</span> Cairo

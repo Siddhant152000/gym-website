@@ -32,7 +32,7 @@ const Footer = () => {
             <span>Call :</span>
             <p>+201151747091</p>
             <span>Email :</span>
-            <p>mustafakhaledinfo@gmail.com</p>
+            <p>siddhantdeore15@gmail.com</p>
           </div>
         </div>
         <div>

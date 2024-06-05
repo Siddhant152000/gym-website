@@ -460,7 +460,7 @@ export const contactInfoData = [
     id: 2,
     title: "Email",
     icon: "fa-solid fa-envelope",
-    cta: "mustafakhaledinfo@gmail.com",
+    cta: "<p>siddhantdeore15@gmail.com</p>",
   },
 
   {
