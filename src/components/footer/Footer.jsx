@@ -11,7 +11,7 @@ const Footer = () => {
         <h2>
           Follow me on
           <a
-            href="https://www.linkedin.com/in/the-mustafa-khaled/"
+            href="https://www.linkedin.com/in/siddhant-deore/"
             target="_blank">
             Linked In
           </a>
@@ -22,7 +22,7 @@ const Footer = () => {
           <div className={styles.logo_holder}>
             <img src={logoIcon} alt="Logo Icon" />
 
-            <h3>Strengthy</h3>
+            <h3>Fit with Me</h3>
           </div>
           <p>
             It is a long established fact that a reader will be distracted by

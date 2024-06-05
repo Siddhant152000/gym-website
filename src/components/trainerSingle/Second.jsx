@@ -18,7 +18,7 @@ const Second = () => {
           <span>Location :</span> Cairo
         </p>
         <a
-          href="https://www.linkedin.com/in/the-mustafa-khaled/"
+          href="https://www.linkedin.com/in/siddhant-deore/"
           target="_blank">
           <i className="fa-brands fa-linkedin"></i>
         </a>

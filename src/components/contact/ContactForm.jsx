@@ -27,7 +27,7 @@ const ContactForm = () => {
   return (
     <div className={`${styles["contact-form"]}  container sections-padding`}>
       <div data-aos="fade-down">
-        <p className="paragraph">Welcome To strengthy</p>
+        <p className="paragraph">Welcome To Fit with Me</p>
         <h2>Get In Touch With Us</h2>
         <p>
           If you have any feedback or questions about our clubs, our website or
